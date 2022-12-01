@@ -17,5 +17,5 @@ X-KDE-PluginInfo-Version=
 X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/Orchids-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1938706,kns://plasma-themes.knsrc/api.kde-look.org/1938709,kns://aurorae.knsrc/api.kde-look.org/1938705,kns://icons.knsrc/api.kde-look.org/1546069,kns://wallpaper.knsrc/api.kde-look.org/1938699,kns://sddmtheme.knsrc/api.kde-look.org/1938708,kns://xcursor.knsrc/api.kde-look.org/1665694
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1947619,kns://plasma-themes.knsrc/api.kde-look.org/1947637,kns://aurorae.knsrc/api.kde-look.org/1947616,kns://icons.knsrc/api.kde-look.org/1546069,kns://wallpaper.knsrc/api.kde-look.org/1947613,kns://sddmtheme.knsrc/api.kde-look.org/1947631,kns://xcursor.knsrc/api.kde-look.org/1665694
 X-Plasma-MainScript=defaults
